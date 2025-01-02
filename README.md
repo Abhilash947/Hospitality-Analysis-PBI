@@ -34,5 +34,5 @@ Skills and Technologies Used
 
 Live Dashboard
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Explore the live dashboard : http://tiny.cc/6xq3001
-Codebasics resume challenge link :https://codebasics.io/challenge/codebasics-resume-project-challenge
+* Explore the live dashboard : http://tiny.cc/6xq3001
+* Codebasics resume challenge link :https://codebasics.io/challenge/codebasics-resume-project-challenge
