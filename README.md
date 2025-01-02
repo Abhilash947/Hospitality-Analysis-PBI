@@ -33,4 +33,6 @@ Skills and Technologies Used
 * Crafting these views required a blend of analytical prowess and creativity, resulting in valuable insights and recommendations.
 
 Live Dashboard
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Explore the live dashboard : http://tiny.cc/6xq3001
+Codebasics resume challenge link :https://codebasics.io/challenge/codebasics-resume-project-challenge
